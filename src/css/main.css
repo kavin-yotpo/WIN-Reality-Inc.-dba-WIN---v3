@@ -200,3 +200,11 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
+
+.win_logo_sign {
+  fill: #a541ff;
+}
+
+.win_logo_text {
+  fill: #101010;
+}
