@@ -16,7 +16,8 @@
   scroll-behavior: smooth;
 }
 
-body {
+body,
+div.accordion-item {
   background-color: var(--generic-template-background) !important;
 }
 
